@@ -1,0 +1,26 @@
+_repo: Het-Eiland-Wieringen-en-Zijne-Bewoners_44086
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44086-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Allan, Francis
+    birthdate: 1826
+    deathdate: 1908
+    gutenberg_agent_id: '42563'
+    url: http://www.gutenberg.org/2009/agents/42563
+description: ''
+gutenberg_issued: '2013-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44086'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wieringen (Netherlands)'
+- !lcc 'DJ'
+title: Het Eiland Wieringen en Zijne Bewoners
+url: http://www.gutenberg.org/ebooks/44086
